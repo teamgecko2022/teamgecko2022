@@ -1,0 +1,11 @@
+<aside class="bg-dark">
+<section id = footer>
+
+      <div class="container text-center">
+          <div class="call-to-action">
+              <img src="\img\portfolio\gemsLogo.png" alt="Gemstone Logo">
+          </div>
+      </div>
+
+</section>
+     </aside>
