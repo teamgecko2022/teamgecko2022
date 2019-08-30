@@ -350,8 +350,8 @@ body {
 }
 
 gemslogo{
-    background-image: url('../img/portfolio/gemstoneLogo.png');
-    position:absolute;
+    background: url('../img/portfolio/gemstoneLogo.png');
+    position:fixed;
     right:100px;
     bottom: 100px 
 }
